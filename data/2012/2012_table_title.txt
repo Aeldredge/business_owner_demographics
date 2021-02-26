@@ -1,0 +1,185 @@
+SB1200CSA01
+Statistics for All U.S. Firms by Industry, Gender, Ethnicity, and Race for the U.S., States, Metro Areas, Counties, and Places: 2012
+<p>[NOTE: Includes firms with paid employees and firms with no paid employees. Data are based on the 2012 Economic Census, and the estimates of business ownership by gender, ethnicity, race, and veteran status are from the 2012 Survey of Business Owners. Detail may not add to total due to rounding or because a Hispanic firm may be of any race. Moreover, each owner had the option of selecting more than one race and therefore is included in each race selected. Firms with more than one domestic establishment are counted in each geographic area and industry in which they operate, but only once in the U.S. and state totals for all sectors. For information on confidentiality protection, sampling error, nonsampling error, and definitions, see <a href="https://www.census.gov/programs-surveys/sbo/technical-documentation/methodology.2012.html" target="_blank">Survey Methodology</a>.]</p>
+
+<table>
+<tr><td><b>Table Name</b></td>
+    <td>
+    <p><b><i>Statistics for All U.S. Firms by Industry, Gender, Ethnicity, and Race for the U.S., States, Metro Areas, Counties, and Places: 2012</i></b></p>
+    </td>
+</tr>
+<tr><td><b>Release Schedule</b></td>
+    <td>
+    <p>This file was released in December 2015. Included are statistics for:</p>
+    <ul>
+        <li><i>Women-Owned Firms (WMN)</i></li>
+        <li><i>Hispanic-Owned Firms (HISP)</i></li>
+        <li><i>Black-Owned Firms (BLK)</i></li>
+        <li><i>American Indian- and Alaska Native-Owned Firms (AIAN)</i></li>
+        <li><i>Asian-Owned Firms (ASIAN)</i></li>
+        <li><i>Native Hawaiian- and Other Pacific Islander-Owned Firms (NHPI)</i></li>
+        <li><i>Company Summary (CS)</i> -- Includes estimates for minority- and nonminority-owned firms</li>
+    </ul>
+    </td>
+</tr>
+<tr><td><b>Key Table Information</b></td>
+    <td>
+    <p>This data supersedes all preliminary results released on August 18, 2015, and is related to all other 2012 SBO files.</p>
+    <p>Refer to the <a href="https://www.census.gov/programs-surveys/sbo/technical-documentation/methodology.2012.html">Methodology</a> section of the Survey of Business Owners website for additional information.</p>
+    </td>
+</tr>
+<tr><td><b>Universe</b></td>
+    <td>
+    <p>The universe for the 2012 Survey of Business Owners (SBO) includes all U.S. firms operating during 2012 with receipts of $1,000 or more which are classified in the North American Industry Classification System (NAICS) sectors 11 through 99, except for NAICS 111, 112, 482, 491, 521, 525, 813, 814, and 92 which are not covered. Firms with more than one domestic establishment are counted in each geographic area and industry in which they operate, but only once in the U.S. total.</p>
+    </td>
+</tr>
+<tr><td><b>Geographic Coverage</b></td>
+    <td>
+    <p>The data are shown for:</p>
+    <ul>
+        <li>United States</li>
+        <li>States and the District of Columbia</li>
+        <li>Metropolitan Areas, including:
+        <ul>
+            <li>Combined Statistical Areas</li>
+            <li>Metropolitan and Micropolitan Statistical Areas</li>
+            <li>Metropolitan divisions</lI>
+        </ul>
+        </li>
+        <li>Counties</li>
+        <li>Places</li>
+    </ul>
+    </td>
+</tr>
+<tr><td><b>Industry Coverage</b></td>
+    <td>
+    <p>The data are shown for the total of all sectors (00) and the 2-, 3-, 4-, 5-, and 6-digit NAICS code levels for:</p>
+    <ul>
+        <li>United States</li>
+        <li>States and the District of Columbia</li>
+    </ul>
+    <p>The data are shown for the total of all sectors (00) and the 2-digit NAICS code levels for:</p>
+    <ul>
+        <li>Metropolitan Areas, including:
+        <ul>
+            <li>Combined Statistical Areas</li>
+            <li>Metropolitan and Micropolitan Statistical Areas</li>
+            <li>Metropolitan divisions</li>
+        </ul>
+        </li>
+        <li>Counties</li>
+        <li>Places</li>
+    </ul>
+    </td>
+</tr>
+<tr><td><b>Data Items and Other Identifying Records</b></td>
+    <td>
+    <p><b><i>Statistics for All U.S. Firms by Industry, Gender, Ethnicity, and Race for the U.S., States, Metro Areas, Counties, and Places: 2012</i></b> contains data on:</p>
+    <ul>
+        <li>Numbers of all firms, firms with paid employees, and firms with no paid employees</li>
+        <li>Sales and receipts for all firms, firms with paid employees, and firms with no paid employees</li>
+        <li>Number of employees for firms with paid employees</li>
+        <li>Annual payroll for firms with paid employees</li>
+    </ul>
+    <p>The data are shown for:</p>
+    <ul>
+        <li>All firms classifiable by gender, ethnicity, race, and veteran status
+        <ul>
+            <li>Gender
+            <ul>
+                <li>Female-owned</li>
+                <li>Male-owned</li>
+                <li>Equally male-/female-owned</li>
+            </ul>
+            </li>
+            <li>Ethnicity
+            <ul>
+                <li>Hispanic
+                <ul>
+                    <li> Mexican, Mexican American, Chicano</li>
+                    <li> Puerto Rican</li>
+                    <li> Cuban</li>
+                    <li> Other Hispanic, Latino, or Spanish origin</li>
+                </ul>
+                </li>
+                <li>Equally Hispanic/non-Hispanic</li>
+                <li>Non-Hispanic</li>
+            </ul>
+            </li>
+            <li>Race
+            <ul>
+                <li>White</li>
+                <li>Black or African American</li>
+                <li>American Indian and Alaska Native</li>
+                <li>Asian
+                <ul>
+                    <li>Asian Indian</li>
+                    <li>Chinese</li>
+                    <li>Filipino</li>
+                    <li>Japanese</li>
+                    <li>Korean</li>
+                    <li>Vietnamese</li>
+                    <li>Other Asian</li>
+                </ul>
+                </li>
+                <li>Native Hawaiian and Other Pacific Islander
+                <ul>
+                    <li>Native Hawaiian</li>
+                    <li>Samoan</li>
+                    <li>Guamanian or Chamorro</li>
+                    <li>Other Pacific Islander</li>
+                </ul>
+                </li>
+                <li>Some other race</li>
+                <li>Minority</li>
+                <li>Equally minority/nonminority</li>
+                <li>Nonminority</li>
+            </ul>
+            </li>
+        </ul>
+        </li>
+        <li>Publicly held and other firms not classifiable by gender, ethnicity, race, and veteran status</li>
+    </ul>
+    </td>
+</tr>
+<tr><td><b>Sort Order</b></td>
+    <td>
+    <p>Data are presented in ascending levels by:</p>
+    <ul>
+        <li>Geography (GEO_ID)</li>
+        <li>NAICS code (NAICS2012)</li>
+        <li>Gender (SEX)</li>
+        <li>Ethnicity (ETH_GROUP)</li>
+        <li>Race (RACE_GROUP)</li>
+    </ul>
+    <p>The data are sorted on underlying control field values, so control fields may not appear in alphabetical order.</p>
+    </td>
+</tr>
+<tr><td><b>FTP Download</b></td>
+    <td>
+    <p>Download the entire SB1200CSA01 table at: <a href="https://www2.census.gov/econ2012/SB/sector00/SB1200CSA01.zip">https://www2.census.gov/econ2012/SB/sector00/SB1200CSA01.zip</a></p>
+    </td>
+</tr>
+<tr><td><b>Contact Information</b></td>
+    <td>
+    <p>To contact the Survey of Business Owners staff:</p>
+    <ul>
+        <li>Visit the website at <a href="https://www.census.gov/programs-surveys/sbo.html">www.census.gov/programs-surveys/sbo.html</a>.</li>
+        <li>Email general, nonsecure, and unencrypted messages to <a href="mailto:ewd.survey.of.business.owners@census.gov">ewd.survey.of.business.owners@census.gov</a>.</li>
+        <li>Call 301.763.3316 between 7 a.m. and 5 p.m. (EST), Monday through Friday.</li>
+        <li>Write to:<br />
+        U.S. Census Bureau<br />
+        Survey of Business Owners<br />
+        4600 Silver Hill Road<br />
+        Washington, DC 20233<br />
+        </li>
+     </ul>
+    </td>
+</tr>
+</table>
+
+<p>Symbols:<br><b>S</b> - Withheld because estimate did not meet publication standards<br><b>N</b> - Not available or not comparable<br><b>X</b> - Not applicable<br>For a complete list of all economic programs symbols, see the <a href="https://www.census.gov/econ/census/help/methodology_disclosure/symbols_glossary.html">Symbols Glossary</a></p>
+
+<p>Source: U.S. Census Bureau, 2012 Survey of Business Owners</p>
+<p>Note: The data in this file are based on the 2012 Economic Census, Survey of Business Owners (SBO). To maintain confidentiality, the Census Bureau suppresses data to protect the identity of any business or individual. The census results in this file contain sampling and nonsampling errors. Data users who create their own estimates using data from this file should cite the Census Bureau as the source of the original data only. For the full technical documentation, see <a href="https://www.census.gov/programs-surveys/sbo/technical-documentation/methodology.2012.html" target="_blank">Survey Methodology</a>.</p>
+
