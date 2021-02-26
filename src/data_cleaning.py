@@ -3,9 +3,9 @@ import pandas as pd
 import warnings
 warnings.filterwarnings("ignore")
 
-data07 = pd.read_csv('~/Documents/dsi/capstone/capstone1/data/2007/2007_slim_data.csv')
-data12 = pd.read_csv('~/Documents/dsi/capstone/capstone1/data/2012/2012_data.csv')
-data17 = pd.read_csv('~/Documents/dsi/capstone/capstone1/data/2017/2017_data.csv')
+data07 = pd.read_csv('../data/2007/2007_slim_data.csv')
+data12 = pd.read_csv('../data/2012/2012_data.csv')
+data17 = pd.read_csv('../data/2017/2017_data.csv')
 
 def clean(data, year):
     if year == 2007:
@@ -131,4 +131,4 @@ def demographic(demo, year):
 if __name__ == '__main__':
 
     # print(demographic('demo', year))
-    print(demographic('sex', 2012))
+    print(demographic('sex', 2007))
