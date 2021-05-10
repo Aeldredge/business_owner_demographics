@@ -57,5 +57,4 @@ Lessons learned from this first capstone:
 
 Title photo from this [link](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftowardsdatascience.com%2Faccessing-census-data-with-python-3e2f2b56e20d&psig=AOvVaw0dgzIG1WcGGle9Cfm4tfVp&ust=1614429873497000&source=images&cd=vfe&ved=0CA0QjhxqFwoTCIieiozKh-8CFQAAAAAdAAAAABAD). <br />
 All data from [data.census.gov](https://data.census.gov/cedsci/). <br />
-Code, plots, and explaination from Alex Eldredge. # capstone1
-# capstone1
+Code, plots, and explaination from Alex Eldredge.
